@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "meetup",
+      "Alias": "meetup",
+      "Id": "245eab77-aba7-4865-937f-9bc25aaaa57e",
+      "Workspaces": [
+        {
+          "Id": "eb0930c8-d47e-495c-83ab-7f31d18d211f",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://meetup.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
